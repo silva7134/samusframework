@@ -5,9 +5,9 @@
 == http://www.samus.com.br ==
 
 A Samus possui uma plataforma exclusiva de desenvolvimento, o Samus Framework, não quer dizer que utilizamos uma linguagem de programação diferente de outras empresas, mas que utilizamos uma abordagem muito diferente do comum para o desenvolvimento de aplicações. Seguindo o Modelo MVC o Samus Framework integra-se com o CRUD PHP (nossa api de persistência) e usa um Template Engine muito famoso, o Smarty, que é uma obra prima do PHP.
- 
+<br>
 Repensamos o Modelo MVC aplicado à projetos web, mas por que? Porque Acreditamos em algumas coisas (que parecem obviais e certas) mas não são aplicadas às ferramentas de desenvolvimento em PHP mais comuns. Entre elas estão
- 
+<br>
 Um projeto web deve ser orientado a objetos, e não à tabelas do banco de dados; as regras de negócio devem estar nas classes modelo, não no banco de dados, a função deste é fazer a persistência dos dados
 Código não deve ser misturar, PHP não pode estar junto com XHTML, XHTML não deve se miturar nem à CSS nem à JavaScript.
 PHP não deve ser usado para gerar código HTML, nem deve ser usado para gerar código em JavaScript, essas linguagens são diferentes porque tem funções diferentes.

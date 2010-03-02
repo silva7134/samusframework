@@ -25,6 +25,5 @@ A camada de visão deve ser capaz de acessar tudo que for público em seu contro
  
 <p>
 O nosso Framework já esta em uso em dezenas de projetos, no entanto estamos carentes de documentação, esta documentação esta sendo desenvolvida gradualmente conforme caminhamos para versão 1.0 do Framework, os códigos fonte e mais detalhes sobre o desenvolvimento podem ser encotrados no nosso projeto do google:
-<br>
-http://code.google.com/p/samusframework
 </p>
+http://code.google.com/p/samusframework

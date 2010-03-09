@@ -4,7 +4,9 @@ require_once ('samus/Samus_FilterInterface.php');
 
 
 class __Filter extends Samus_Filter {
-
+    
+    public $msg;
+    
     public function filter() {
        
 
